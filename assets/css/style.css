@@ -71,3 +71,11 @@ button:hover {
   font-family: 'Chicle', cursive;
 
 }
+
+footer {
+  text-align: center;
+  color: #91e5ff;
+  padding-bottom: 20px;
+  border-top-width: 5px;
+  border-top-color: antiquewhite;
+}
