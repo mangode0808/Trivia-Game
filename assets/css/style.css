@@ -3,7 +3,7 @@ body {
 
 }
 
-#wrapper {
+#page1 {
   width: 960px;
   height: 95%;
   box-sizing: border-box;
@@ -12,7 +12,7 @@ body {
   font-family: 'Chicle', cursive;
 }
 
-#sub-wrapper {
+#page2 {
   position: relative;
   top: 15%;
   font-family: 'Chicle', cursive;
